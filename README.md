@@ -10,7 +10,7 @@
 
 https://github.com/apps/desktop
 
-4. Use of Github Pages
+3. Use of Github Pages
    
 https://pages.github.com/
    
