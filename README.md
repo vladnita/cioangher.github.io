@@ -8,4 +8,9 @@
 
 2. Use of Github Desktop
 
-3. 
+https://github.com/apps/desktop
+
+4. Use of Github Pages
+   
+https://pages.github.com/
+   
